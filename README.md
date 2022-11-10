@@ -1,2 +1,3 @@
-<script>
-    const input = confirm
+##js기초
+
+#Today I Learned (TIL)
