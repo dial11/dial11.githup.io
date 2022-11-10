@@ -1,3 +1,3 @@
-##js기초
+# js기초
 
-#Today I Learned (TIL)
+# Today I Learned (TIL)
