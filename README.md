@@ -1,2 +1,1 @@
-<script>
-    const input = confirm
+#
