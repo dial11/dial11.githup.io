@@ -36,3 +36,11 @@ git add .
  
  ## git hub 
  * 저장소
+ * push
+   + 로컬 저장소의 변경사항을 원격저장소에 밀어넣는것
+     일종의 업로드
+     변경사항(커밋)을 업로드
+     remote를 add
+     git push
+ * pull
+ * clone
