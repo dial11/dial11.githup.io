@@ -29,7 +29,7 @@
  * 프로젝트 발표
  * **[CS특강](./CS특강.md)**
 
-### 2022.11.21(https://www.notion.so/dfb89a042c6f4b29b64ea4da03a37ea6#71e4bb75e0844d56b32a5e01b157f632)
+### 2022.11.21
  * 파이썬 문법 강의
    + if, else와 elif
      - 조건을 만족하지 않을 때 다른 코드를 실행하고 싶을 때
@@ -40,12 +40,12 @@
      - 중복이 제거
      - 교집합 / 합집합 / 차집합
    + f-string
-```
-for s in scores:
-    name = s['name']
-    score = str(s['score'])
-    print(f'{name}은 {score}점입니다')
-```
+   ```
+   for s in scores:
+       name = s['name']
+       score = str(s['score'])
+       print(f'{name}은 {score}점입니다')
+   ```
    + try - except 문
      - 에러가 있어도 건너뛰게 할 수 있는 방법
      - 실제 프로젝트 남용하는 것은 금물 어디서 에러가 났는지 알 수 없음
@@ -53,3 +53,4 @@ for s in scores:
      - 다른 파일의 함수를 그래로 사용가능
        from main_func import *
      
+(https://www.notion.so/dfb89a042c6f4b29b64ea4da03a37ea6#71e4bb75e0844d56b32a5e01b157f632)
