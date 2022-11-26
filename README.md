@@ -58,4 +58,5 @@
 ### 2022.11.22 ~ 25
   * **[자료구조 알고리즘](./자료구조알고리즘.md)**
   * javascript 올인원
-
+  * CS특강
+     - https://teamsparta.notion.site/HTTP-HTTPS-f27bad886a4c4cf1932384f41cd77b67
