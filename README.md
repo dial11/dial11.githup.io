@@ -79,6 +79,7 @@ SQL: DBMS에서 사용하는 언어
      - 1. 요구조건 분석
      - 2. 개념적 모델링
         - https://drive.google.com/file/d/1fpKnZw_HbMybaCXmYvPOBPLD5MrJEdZl/view
-     - 3. 논리적 모델링![schema](https://user-images.githubusercontent.com/117889461/204723300-4621a0e1-8c40-4fa5-9c8f-92615c15919e.PNG)
-        - erd를 바탕으로 테이블 만들기 
+     - 3. 논리적 모델링
+        - erd를 바탕으로 테이블 만들기
+        -  ![11schema](https://user-images.githubusercontent.com/117889461/204723619-00e0f413-5502-4318-960d-9beb2c740d46.PNG)
      - 4. 물리적 모델링
