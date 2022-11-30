@@ -60,3 +60,18 @@
   * javascript 올인원
   * CS특강
      - https://teamsparta.notion.site/HTTP-HTTPS-f27bad886a4c4cf1932384f41cd77b67
+     
+### 2022.11.30
+  * DB설계, 구축, mysql 특강
+    - https://teamsparta.notion.site/11-30-DB-mysql-c193376d347943d8aaa33fbf0d52348a
+```
+데이터의 집합
+DBMS
+  - 데이터베이스를 관리하고 운영하는 소프트웨어
+  - 계층형 DBMS
+  - 망형 DBMS
+  - 관계형 DMBS
+     - 관계형 DBMS(Relational DBMS)는 줄여서 RDBMS라고 부릅니다. MySQL뿐만 아니라, 대부분의 DBMS가 RDBMS 형태로 사용됩니다. RDBMS의 데이터베이스는 테이블(table)이라는 최소 단위        로 구성되며, 이 테이블은 하나 이상의 열(column)과 행(row)으로 이루어져 있습니다.
+SQL: DBMS에서 사용하는 언어
+  - 데이터를 엑셀과 같이 정해진 틀(데이터 스키마)에 따라 테이블에 저장
+```
