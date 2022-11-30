@@ -75,3 +75,10 @@ DBMS
 SQL: DBMS에서 사용하는 언어
   - 데이터를 엑셀과 같이 정해진 틀(데이터 스키마)에 따라 테이블에 저장
 ```
+  * 데이터베이스 설계
+     - 1. 요구조건 분석
+     - 2. 개념적 모델링
+        - https://drive.google.com/file/d/1fpKnZw_HbMybaCXmYvPOBPLD5MrJEdZl/view
+     - 3. 논리적 모델링![schema](https://user-images.githubusercontent.com/117889461/204723300-4621a0e1-8c40-4fa5-9c8f-92615c15919e.PNG)
+        - erd를 바탕으로 테이블 만들기 
+     - 4. 물리적 모델링
