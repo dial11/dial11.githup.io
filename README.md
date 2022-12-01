@@ -92,3 +92,5 @@ SQL: DBMS에서 사용하는 언어
 ### 2022.12.01
   * RESTful API CS 특강
      - https://teamsparta.notion.site/12-1-RESTful-API-CS-083aa0cbcbb449edbbc3012215c73fad
+  * html, css, javascript 특강
+     - https://teamsparta.notion.site/12-01-html-css-javascript-939a3adb059541aeaa96c6aec9bf01e1
