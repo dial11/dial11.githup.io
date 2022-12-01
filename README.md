@@ -88,3 +88,7 @@ SQL: DBMS에서 사용하는 언어
      - 중복 데이터를 없애고 관계를 단순하게 가져 간다
      - 제2정규화: 완전 함수적 종속 (부분 종속 제거)
        - 종속되는 요소가 많으면 그 종속되는 요소를 분리해야 된다
+
+### 2022.12.01
+  * RESTful API CS 특강
+     - https://teamsparta.notion.site/12-1-RESTful-API-CS-083aa0cbcbb449edbbc3012215c73fad
