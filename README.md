@@ -94,3 +94,7 @@ SQL: DBMS에서 사용하는 언어
      - https://teamsparta.notion.site/12-1-RESTful-API-CS-083aa0cbcbb449edbbc3012215c73fad
   * html, css, javascript 특강
      - https://teamsparta.notion.site/12-01-html-css-javascript-939a3adb059541aeaa96c6aec9bf01e1
+
+### 2022.12.02
+  * S.A제작  
+    - https://velog.io/@mad/%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
