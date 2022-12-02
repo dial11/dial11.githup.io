@@ -98,3 +98,6 @@ SQL: DBMS에서 사용하는 언어
 ### 2022.12.02
   * S.A제작  
     - https://velog.io/@mad/%EB%89%B4%EC%8A%A4%ED%94%BC%EB%93%9C-%EB%AF%B8%EB%8B%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8
+    - API, 역할 분담 ...
+  * osi 7계층 특강
+    - https://teamsparta.notion.site/osi-7-03d065a960704b4ca524c4a2d69ded2e
