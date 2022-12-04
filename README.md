@@ -63,7 +63,7 @@
      
 ### 2022.11.30
   * DB설계, 구축, mysql 특강
-    - https://teamsparta.notion.site/11-30-DB-mysql-c193376d347943d8aaa33fbf0d52348a
+    - https://teamsparta.notion.site/11-30-DB-mysql-7a2a7bbcb843452f898dc7e11d5e3472
 ```
 데이터의 집합
 DBMS
