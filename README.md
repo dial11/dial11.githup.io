@@ -101,3 +101,7 @@ SQL: DBMS에서 사용하는 언어
     - API, 역할 분담 ...
   * osi 7계층 특강
     - https://teamsparta.notion.site/osi-7-03d065a960704b4ca524c4a2d69ded2e
+    
+ ### 2022.12.02 ~ 09
+  * Poject(뉴스피드 만들기)
+     - https://interrobang.tistory.com/176
