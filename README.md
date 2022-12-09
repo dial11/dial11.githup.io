@@ -106,6 +106,7 @@ SQL: DBMS에서 사용하는 언어
  ### 2022.12.02 ~ 09
   * Poject(뉴스피드 만들기)
      - https://interrobang.tistory.com/176
+     - https://interrobang.tistory.com/179
  
  ### 2022.12.09
    * CS특강
