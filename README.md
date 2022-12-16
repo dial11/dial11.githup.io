@@ -112,7 +112,12 @@ SQL: DBMS에서 사용하는 언어
    * CS특강
        - https://teamsparta.notion.site/12-09-CS-DB-00c06c2bc70e49e8824fc22f1fc99800
        
- ### 2022.12.16
+ ### 2022.12.12 ~ 16
+   #### Node.js 입문 주차 개인 과제
+   - MongooseServerSelectionError: connect ECONNREFUSED ::1:27017 
+   - localhost:27017를 127.0.0.1:27017 수정
+   - 배포할려면 리눅스 컴퓨터에 db를 설치하고 내 컴퓨터에서 연결
+ 
    ```
    리눅스에 mongodb를 설치하면 기본적으로 외부접속이 허용되지 않습니다.
    mongodb의 설정파일은 /etc/mongod.conf입니다. 이 파일의 내용을 수정
@@ -123,3 +128,5 @@ SQL: DBMS에서 사용하는 언어
    그리고 다음 명령으로 mongod를 재시작합니다.
    $ sudo systemctl restart mongod
    ```
+ ### 2022.12.16
+   - CS
