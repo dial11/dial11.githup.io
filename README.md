@@ -114,6 +114,7 @@ SQL: DBMS에서 사용하는 언어
        
  ### 2022.12.12 ~ 16
    #### Node.js 입문 주차 개인 과제
+      https://github.com/dial11/assignment1
    
    ```
    예제: article의 title과 content 만 조회
