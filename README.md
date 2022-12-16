@@ -138,4 +138,4 @@ SQL: DBMS에서 사용하는 언어
    $ sudo systemctl restart mongod
    ```
  ### 2022.12.16
-   - CS
+   - CS특강 - 애자일 방법론
