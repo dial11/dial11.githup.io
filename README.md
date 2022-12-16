@@ -139,3 +139,4 @@ SQL: DBMS에서 사용하는 언어
    ```
  ### 2022.12.16
    - CS특강 - 애자일 방법론
+   - https://teamsparta.notion.site/9ac0552f9ba14d02990ecfd542c059ee
