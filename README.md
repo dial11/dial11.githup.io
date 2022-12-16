@@ -114,6 +114,14 @@ SQL: DBMS에서 사용하는 언어
        
  ### 2022.12.12 ~ 16
    #### Node.js 입문 주차 개인 과제
+   
+   ```
+   예제: article의 title과 content 만 조회
+   > db.articles.find( { } , { “_id”: false, “title”: true, “content”: true } )
+   내 코드
+   > const posts = await Posts.find({} , { content: false });
+   ```
+   
    - MongooseServerSelectionError: connect ECONNREFUSED ::1:27017 
    - localhost:27017를 127.0.0.1:27017 수정
    - 배포할려면 리눅스 컴퓨터에 db를 설치하고 내 컴퓨터에서 연결
