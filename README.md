@@ -111,3 +111,15 @@ SQL: DBMS에서 사용하는 언어
  ### 2022.12.09
    * CS특강
        - https://teamsparta.notion.site/12-09-CS-DB-00c06c2bc70e49e8824fc22f1fc99800
+       
+ ### 2022.12.16
+   ```
+   리눅스에 mongodb를 설치하면 기본적으로 외부접속이 허용되지 않습니다.
+   mongodb의 설정파일은 /etc/mongod.conf입니다. 이 파일의 내용을 수정
+   설정파일의 소유자가 root이므로 root권한으로 편집기를 열어야합니다.
+
+   $ sudo nano /etc/mongod.conf
+   "bindIP: 127.0.0.1"을 "bindIP: 0.0.0.0"으로 수정합니다.
+   그리고 다음 명령으로 mongod를 재시작합니다.
+   $ sudo systemctl restart mongod
+   ```
