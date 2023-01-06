@@ -173,3 +173,8 @@ SQL: DBMS에서 사용하는 언어
      - https://www.notion.so/Tuna_laundry-caa3f0e02eb84da1abf8d17f3a0fd704
      - https://github.com/Kyeongjin-Park/tuna-laundry
  
+ ### 2022.01.06
+  * CS특강 (메모리)
+  * https://teamsparta.notion.site/a63c55bace8840fea3a49db15c6c2145
+  * 폰 노이만 구조
+  * 메모리는 프로그램과 데이터를 구분없이 저장
