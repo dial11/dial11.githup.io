@@ -149,6 +149,27 @@ SQL: DBMS에서 사용하는 언어
    - userId=user-1321;userName=sparta 와 같이 문자열 형식으로 존재하며 쿠키 간에는 세미콜론(;) 으로 구분됩니다.
    - 세션(Session): 쿠키를 기반으로 구성된 기술입니다. 단, 클라이언트가 마음대로 데이터를 확인 할 수 있던 쿠키와는 다르게 세션은 데이터를 서버에만 저장하기 때문에 보안이      좋으나, 반대로 사용자가 많은 경우 서버에 저장해야 할 데이터가 많아져서 서버 컴퓨터가 감당하지 못하는 문제가 생기기 쉽습니다.
 
+ ### 2022.12.26 ~ 29
+   #### Node.js 심화 주차
+      https://teamsparta.notion.site/Node-js-e2c239f6df2e4782998c84feb8003765
 
-npx sequelize db:create
-npx sequelize db:migrate
+      - Socket.io
+      - Layered Architecture Pattern
+        + 아키텍처 패턴 (Architecture Pattern)
+        + 계층형 아키텍처 패턴 (Layered Architecture Pattern)
+        + 3계층 아키텍처 (3-Layered Architecture)
+          ```
+          1. Controller : 어플리케이션의 가장 바깥 부분, 요청/응답을 처리함.
+                - 클라이언트의 요청을 처리 한 후 서버에서 처리된 결과를 반환해주는 역할을 합니다.
+          2. Service : 어플리케이션의 중간 부분, 실제 중요한 작동이 많이 일어나는 부분
+                - 아키텍처의 가장 핵심적인 비즈니스 로직이 수행되는 부분입니다.
+          3. Repository : 어플리케이션의 가장 안쪽 부분, DB와 맞닿아 있음.
+                - 실제 데이터베이스의 데이터를 사용하는 계층입니다.
+          ```
+      - 테스트 코드
+      
+ ### 2022.12.30 ~ 01.06
+  * Poject(우리만의 실시간 세탁 서비스를 Layered Architecture Pattern을 적용해 구현하기)
+     - https://www.notion.so/Tuna_laundry-caa3f0e02eb84da1abf8d17f3a0fd704
+     - https://github.com/Kyeongjin-Park/tuna-laundry
+ 
